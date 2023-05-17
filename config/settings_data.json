@@ -117,10 +117,10 @@
     "timer": "903710998572@10\/24\/2021_00:00:00",
     "timer_button_bg": "#206469",
     "social_twitter_link": "",
-    "social_facebook_link": "https://www.facebook.com/rebellionrumco/",
+    "social_facebook_link": "https:\/\/www.facebook.com\/rebellionrumco\/",
     "social_pinterest_link": "",
     "social_google_plus_link": "",
-    "social_instagram_link": "https://www.instagram.com/rebellionrumco/",
+    "social_instagram_link": "https:\/\/www.instagram.com\/rebellionrumco\/",
     "social_tumblr_link": "",
     "social_youtube_link": "",
     "social_vimeo_link": "",
@@ -217,7 +217,7 @@
           "header_phone": "+61 452 323 234",
           "header_contact": "",
           "header_contact_hover": "",
-          "logo": "shopify:\/\/shop_images\/rebellion_rum_logo_-_transparent_background.png",
+          "logo": "shopify:\/\/shop_images\/rebellion_rum_logo_-_dark_background.png",
           "logo_max_width": 189,
           "menu_align": "logo_left",
           "show_header_social": true,
@@ -529,7 +529,7 @@
           "enable_inline_footer_menu": false,
           "footer": "footer",
           "copyright_text": "",
-          "copyright_link": "https://www.rebelrum.com.au",
+          "copyright_link": "https:\/\/www.rebelrum.com.au",
           "copyright_link_color": "",
           "copyright_link_color_hover": ""
         }
@@ -2159,16 +2159,6 @@
       "162070311790c715c5": {
         "type": "home-support-block",
         "blocks": {
-          "162070311790c715c5-0": {
-            "type": "class",
-            "settings": {
-              "class": "",
-              "title": "Small Batch Artistry",
-              "desc": "Indulge in the pinnacle of craftsmanship with our meticulously created small-batch rum. Every exquisite batch is painstakingly crafted, filling no more than a single barrel to preserve its exceptional quality and unrivaled character.",
-              "link_text": "",
-              "link": ""
-            }
-          },
           "162070311790c715c5-1": {
             "type": "class",
             "settings": {
@@ -2189,6 +2179,16 @@
               "link": ""
             }
           },
+          "162070311790c715c5-0": {
+            "type": "class",
+            "settings": {
+              "class": "",
+              "title": "Small Batch Artistry",
+              "desc": "Indulge in the pinnacle of craftsmanship with our meticulously created small-batch rum. Every exquisite batch is painstakingly crafted, filling no more than a single barrel to preserve its exceptional quality and unrivaled character.",
+              "link_text": "",
+              "link": ""
+            }
+          },
           "c64dec7c-ac0b-4b9f-ad6b-91bc8cf53b1d": {
             "type": "class",
             "settings": {
@@ -2201,7 +2201,6 @@
           }
         },
         "block_order": [
-          
           "162070311790c715c5-1",
           "162070311790c715c5-2",
           "162070311790c715c5-0",
