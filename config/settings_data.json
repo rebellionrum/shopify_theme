@@ -310,8 +310,8 @@
           "product_tab2": false,
           "product_tab2_heading": "Shipping details",
           "page_content": "",
-          "product_tab3": true,
-          "product_tab3_heading": "",
+          "product_tab3": false,
+          "product_tab3_heading": "Reviews",
           "enable_enquiry": false
         }
       },
