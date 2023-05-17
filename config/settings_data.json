@@ -284,12 +284,12 @@
       "product-template": {
         "type": "product-template",
         "settings": {
-          "hide_breadcrumb": false,
+          "hide_breadcrumb": true,
           "gallery_type": "thumbnails_horizontal",
           "vertical_style": "dt-sc-product-vertical-thumb-left",
           "enable_zoom": true,
           "enable_video_looping": true,
-          "reviews": true,
+          "reviews": false,
           "show_featured_shop_desc": true,
           "featured_view_desc_truncate": "30",
           "show_variants_swatches": true,
