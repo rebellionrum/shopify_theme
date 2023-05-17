@@ -356,6 +356,7 @@
           },
           "872be516-3e30-410a-ae3a-b5a2cc663c72": {
             "type": "tag",
+            "disabled": true,
             "settings": {
               "filter_title": "Shop By Brand",
               "other_tag": "Happy Hours, Brew Brothers, Bubbling Brews, Marvelous Mugs, \nGrateful Glass"
