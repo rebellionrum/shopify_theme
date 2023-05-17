@@ -335,6 +335,7 @@
           },
           "43eb5a58-8735-41b8-a99a-d37a954cee2a": {
             "type": "color",
+            "disabled": true,
             "settings": {
               "filter_title": "Shop By Color",
               "color_tag": "Black, White, Brown, Yellow, Grey, Orange"
@@ -343,15 +344,16 @@
           "4044c4d0-1f8c-4cbf-b2a4-28c1ce6c38a0": {
             "type": "size",
             "settings": {
-              "filter_title": "Shop By Size",
+              "filter_title": "Shop By Type",
               "size_tag": "L, M, S"
             }
           },
           "08da70d9-8ee2-447d-a9df-85e9fd0d9bd6": {
             "type": "tag",
+            "disabled": true,
             "settings": {
               "filter_title": "Shop By Price",
-              "other_tag": "$100 - $200, $200 - $300, $300 - $400, $400 - $500,  $500 - $700, $700 - $1000,"
+              "other_tag": "Rum & Cane Spirit,Gin,Vodka"
             }
           },
           "872be516-3e30-410a-ae3a-b5a2cc663c72": {
@@ -364,6 +366,7 @@
           },
           "b688647b-8613-4599-9675-5ea7e9850e70": {
             "type": "tag",
+            "disabled": true,
             "settings": {
               "filter_title": "Shop By Type",
               "other_tag": "Brown Ale, Pale Ale, Porter, Stout, Wheat Beer"
@@ -371,6 +374,7 @@
           },
           "8abc2a65-3436-40a5-9375-190657f41e2a": {
             "type": "tag",
+            "disabled": true,
             "settings": {
               "filter_title": "Vendor",
               "other_tag": "Aurelia, D Perkins, Prida, Wouis, Awenue, V Moda, Ajio"
@@ -378,6 +382,7 @@
           },
           "99ee343f-c5f5-434c-930d-028737c9398f": {
             "type": "image",
+            "disabled": true,
             "settings": {
               "title": "Framework -ORG-LIVE",
               "link_text": "About us",
@@ -386,6 +391,7 @@
           },
           "3b2664d4-048a-4939-bbd4-dc78869431b9": {
             "type": "carousel",
+            "disabled": true,
             "settings": {
               "title": "Best Sellers",
               "collection": "frontpage",
@@ -394,6 +400,7 @@
           },
           "eb2fbe04-9dc3-4920-be0e-c56001f3a2ac": {
             "type": "collection",
+            "disabled": true,
             "settings": {
               "title": "Hot Deal",
               "collection": "best-sellers",
