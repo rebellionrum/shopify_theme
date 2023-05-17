@@ -528,8 +528,8 @@
           "footer_menu_style": "vertical",
           "enable_inline_footer_menu": false,
           "footer": "footer",
-          "copyright_text": "Design Themes",
-          "copyright_link": "#",
+          "copyright_text": "",
+          "copyright_link": "https://www.rebelrum.com.au",
           "copyright_link_color": "",
           "copyright_link_color_hover": ""
         }
