@@ -2064,10 +2064,10 @@
             "settings": {
               "image": "shopify:\/\/shop_images\/the-start-to-a-fun-weekend-with-her-bridesmaids.jpg",
               "mobile_bg_clr": "",
-              "text_alignment": "text-center",
-              "content_position": "dt-sc-flex-center",
+              "text_alignment": "text-end",
+              "content_position": "center-left",
               "block_image": "shopify:\/\/shop_images\/butterfly-pea.jpg",
-              "show_image": false,
+              "show_image": true,
               "title_2": "Refreshing flavours of lemon myrtle & Tasmanian Pepperberry",
               "subheading_color": "#ffffff",
               "subheading_size": "48",
