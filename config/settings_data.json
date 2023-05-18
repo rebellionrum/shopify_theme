@@ -2095,9 +2095,11 @@
           "f8109a12-4cde-42cd-b073-87aa70372370": {
             "type": "Slider",
             "settings": {
+              "image": "shopify:\/\/shop_images\/aerial-image-of-snow-covered-mountains-under-bright-sky.jpg",
               "mobile_bg_clr": "",
               "text_alignment": "text-start",
               "content_position": "center-left",
+              "block_image": "shopify:\/\/shop_images\/white-stag.jpg",
               "show_image": false,
               "title_2": "Your Craft Experience",
               "subheading_color": "#ffffff",
