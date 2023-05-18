@@ -2067,7 +2067,7 @@
               "text_alignment": "text-center",
               "content_position": "dt-sc-flex-center",
               "block_image": "shopify:\/\/shop_images\/butterfly-pea.jpg",
-              "show_image": true,
+              "show_image": false,
               "title_2": "Refreshing flavours of lemon myrtle & Tasmanian Pepperberry",
               "subheading_color": "#ffffff",
               "subheading_size": "48",
