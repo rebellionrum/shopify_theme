@@ -721,7 +721,7 @@
             "type": "image",
             "settings": {
               "product": "ddh-transcen-dose",
-              "from": "Texas, US",
+              "from": "Mount Gravatt, QLD",
               "time": "10 minutes ago"
             }
           },
@@ -729,7 +729,7 @@
             "type": "image",
             "settings": {
               "product": "double-curious-aura",
-              "from": "Newyork, US",
+              "from": "Parramatta, NSW",
               "time": "45 minutes ago"
             }
           },
@@ -737,7 +737,7 @@
             "type": "image",
             "settings": {
               "product": "dry-hopped-fruit-dose",
-              "from": "Chennai, India",
+              "from": "Richmond, VIC",
               "time": "19 minutes ago"
             }
           },
@@ -745,7 +745,7 @@
             "type": "image",
             "settings": {
               "product": "hopped-ecstatic-drizzle",
-              "from": "Sydney, Australia",
+              "from": "Fremantle, WA",
               "time": "27 minutes ago"
             }
           }
