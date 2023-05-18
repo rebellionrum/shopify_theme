@@ -14,9 +14,8 @@
 {% if  block.settings.link != blank %} </a> {% endif %}
 
 <div class="slider-content slider-content-bg {{ block.settings.text_alignment}}  {{ block.settings.content_position }}">
-  <div class="slide_{{forloop.index}}"> 
 
-    {% if block.settings.show_image %}
+  {% if block.settings.show_image %}
     {% if block.settings.block_image != blank %}
     {%- assign block_img_url = block.settings.block_image | img_url: '1x1' | replace: '_1x1.', '_{width}x.' -%}
     <img class="lazyload"
@@ -33,6 +32,10 @@
     {{ 'image' | placeholder_svg_tag: 'placeholder_svg' }}
     {% endif%}    
     {% endif%} 
+
+  <div class="slide_{{forloop.index}}"> 
+
+
 
     {% if block.settings.title_2 != blank %}
     <p class="slide-sub-heading-2"
@@ -69,5 +72,6 @@
       <a href="{{ block.settings.link_2 }}" class="slide-button dt-sc-btn secondary">{{  block.settings.button_2 }}</a>
       {% endif %}
     </div>
+
   </div>
 </div>
