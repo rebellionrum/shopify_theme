@@ -757,7 +757,7 @@
           "8dbb4b4f-d9ca-4553-b804-4271607154ff"
         ],
         "settings": {
-          "display_recent_purchase": true,
+          "display_recent_purchase": false,
           "placement": "right",
           "text": "Someone recently bought"
         }
