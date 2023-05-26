@@ -814,7 +814,7 @@
           "contact_module_contact_phonetitle": "Phone",
           "contact_icon_1": "fa fa-phone",
           "contact_phone1": "0452323234",
-          "contact_phone2": "<b>International: <\/b>+61452323234",
+          "contact_phone2": "<b>International: <\/b><a href=\"tel:\/\/+61452323234\">+61452323234<\/a>",
           "contact_module_email": true,
           "contact_module_contact_title": "Email",
           "contact_icon_2": "fa fa-envelope",
