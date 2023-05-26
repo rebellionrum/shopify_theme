@@ -801,7 +801,7 @@
           "heading_position": "text-center",
           "contact_layout": "block_layout",
           "enable_gmap": true,
-          "contact_iframe_code": "<iframe width=\"1920\" height=\"578\" style=\"border:0;overflow:hidden;\" src=\"https:\/\/maps.google.co.in\/?ie=UTF8&t=m&ll=-37.823006,144.977388&spn=0.02034,0.042915&z=14&output=embed\"><\/iframe>",
+          "contact_iframe_code": "<iframe width=\"1920\" height=\"578\" style=\"border:0;overflow:hidden;\" src=\"https:\/\/maps.google.co.in\/?ie=UTF8&t=m&ll=-27.7607002,153.2338063&spn=0.02034,0.042915&z=14&output=embed\"><\/iframe>",
           "enable_contact_info": true,
           "contactborder_color": "",
           "contact_hvrborder_color": "#f7b035",
