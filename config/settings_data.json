@@ -2033,7 +2033,6 @@
               "mobile_bg_clr": "",
               "text_alignment": "text-start",
               "content_position": "center-right",
-              "block_image": "shopify:\/\/shop_images\/cloak-and-dagger.jpg",
               "show_image": false,
               "title_2": "Rebellion Rum Co.",
               "subheading_color": "",
@@ -2330,7 +2329,7 @@
           "1620894985cd4d8b51-0": {
             "type": "content",
             "settings": {
-              "block_image": "shopify:\/\/shop_images\/cloak-and-dagger.jpg",
+              "block_image": "shopify:\/\/shop_images\/IMG_8693-PhotoRoom.png",
               "show_image": true,
               "block_sub_title": "",
               "block_title": "Cloak & Dagger is the real deal!",
@@ -2366,8 +2365,9 @@
           "spacing_both_ends": false,
           "padding": "0,0",
           "margin": "0,0",
-          "show_background_image": true,
-          "background_style": "default",
+          "show_background_image": false,
+          "background_image": "shopify:\/\/shop_images\/IMG_8693-PhotoRoom.png",
+          "background_style": "parallax",
           "enable_overlay": false,
           "background_color": "rgba(0,0,0,0)",
           "overlay_transparency": "0",
